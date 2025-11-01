@@ -54,32 +54,6 @@ A GUI a háttérben a **Command** mintán keresztül kommunikál a kávéfőző 
 
 ---
 
-## 🧱 Projekt struktúra
-
-src/
-├── command/
-│ ├── Command.java
-│ ├── StartCommand.java
-│ ├── StopCommand.java
-│ ├── CleanCommand.java
-│ ├── CoffeeInvoker.java
-│ └── CoffeeMachine.java
-│
-├── decorator/
-│ ├── PlusElements.java
-│ ├── WithMilk.java
-│ ├── WithWhiteSugar.java
-│
-├── factory/
-│ ├── MakeCoffee.java
-│ ├── Espresso.java
-│ ├── Latte.java
-│ ├── Cappuccino.java
-│ ├── Coffee.java
-│
-└── ui/
-└── CoffeeMakerPanel.java
-
 ## 🚀 Futtatás
 
 1. Klónozd vagy töltsd le a projektet.  
