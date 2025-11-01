@@ -3,15 +3,15 @@ package command;
 public class CoffeeMachine {
 
     public String start() {
-        return "\nKávéfőző beindítva...";
+        return "\nCoffee machine started...";
     }
     
     public String stop() {
-        return "\nKávéfőző leállítva...";
+        return "\nCoffee machine stopped...";
     }
 
     public String clean() {
-        return "\nKávéfőző tisztítása...";
+        return "\nCleaning coffee machine...";
     }
 
 }
