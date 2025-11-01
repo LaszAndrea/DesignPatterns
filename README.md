@@ -80,8 +80,6 @@ src/
 └── ui/
 └── CoffeeMakerPanel.java
 
----
-
 ## 🚀 Futtatás
 
 1. Klónozd vagy töltsd le a projektet.  
@@ -100,14 +98,7 @@ src/
 
 ---
 
-## 📸 Képernyőkép
-
-> A GUI barna és krém színekkel, kávézó stílusban jeleníti meg a vezérlőket és a státuszterületet.  
-> A képernyőn kiválasztható a kávé típusa, extra hozzávalók, majd a Start gombbal elindítható a folyamat.
-
----
-
 ### ☕ Készítette:
-**[László Andrea]**  
+**László Andrea**  
 *Programtervezési minták — beadandó projekt (Factory, Decorator, Command)*  
 2025
